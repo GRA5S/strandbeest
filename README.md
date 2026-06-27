@@ -33,4 +33,4 @@ https://github.com/user-attachments/assets/ee44a758-e248-41e0-81aa-3e3e0db9ee05
 
 <img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/e91c436b-ced0-4d9d-9d24-bfc274c319aa" />
 
-##### The site was built for [HCTG](https://game.hackclub.com/)
+##### this project was built for [HCTG](https://game.hackclub.com/)
